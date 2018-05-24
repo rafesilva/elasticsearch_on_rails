@@ -63,7 +63,11 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
 ## sets
+gem 'searchkick'
+
+gem 'dotenv-rails'
 
 gem 'elasticsearch-model'
 
-gem 'faraday_middleware-aws-signers-v4' 
+gem 'faraday_middleware-aws-signers-v4'
+
